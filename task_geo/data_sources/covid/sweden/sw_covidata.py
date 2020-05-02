@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+Created on Mon Apr 20 15:07:03 2020
+
 @author: Kristoffer Jan Zieba
 """
 
